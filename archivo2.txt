@@ -1,3 +1,0 @@
-Este es el archivo2.txt y esta es la 1er.linea de instruccion
-esta es la 2da.linea de instruccion
-3ra. linea de cambios
