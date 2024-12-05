@@ -1,1 +1,2 @@
 Esta es la primera linea de instruccion en archivo1.txt
+Esta es la segunda linea de instruccion en archivo1.txt
