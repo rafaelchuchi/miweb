@@ -1,1 +1,3 @@
 esta es la 1era linea de archivo2.txt
+linea2
+linea3
